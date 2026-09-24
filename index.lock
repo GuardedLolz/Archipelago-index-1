@@ -728,6 +728,9 @@
 "0.7.9-beta" = "44e09021b5b7071fabd1cd81dcc2ad36a297576542f115d990e91c71ed5b03b3"
 "0.7.11-beta" = "b648be87f71b62b0264785d432ef1fdaa847a4c0bbc2bfbcf5dbd799dde9ed6d"
 
+[lethalcrisis]
+"0.1.1" = "1af753eb2dd5163022e34c23a64911aac79c8d29c749bfe28291bdb2cec8dcaa"
+
 [librarian]
 "1.1.0" = "1b99a2cd8af906e5d33836645deaf3de893fd6ec30b23ef10fad4861f852a3b4"
 
