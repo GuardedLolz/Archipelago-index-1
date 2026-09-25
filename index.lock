@@ -1287,6 +1287,9 @@
 [mm4]
 "0.1.1" = "eed39300cf9dd29cfde6dca6e6c624216b7a483a14e594a18f7ecd69ebe0c27b"
 
+[mml]
+"0.3.2" = "feac47ef789b26b1bba0dc54ac8b841eae11b1a5b8f5b563d0eb564c4c6fd0cd"
+
 [mmx]
 "1.4.0" = "c431b44732d38c9f713a0aa7f6e5bed9369ea5e1ac16e58e70b277e0b9d5f986"
 "1.5.0" = "e3d8888fe18d0b17abafdf8e3825e8be0aa6d70bb92bf61071e8c99cab2312b7"
