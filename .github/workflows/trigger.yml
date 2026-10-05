@@ -200,7 +200,7 @@ jobs:
             const base = [
               'diff', 'check', 'verify-index-main', 'verify-index',
               'verify-apworlds', 'apdiff', 'comment-diff', 'unit-tests',
-              'network-audit',
+              'network-audit', 'legacy-index', 'legacy-index-main',
             ];
             const fuzzOnly = mode === 'fuzz' ? ['fuzz-comment'] : [];
             const contexts = [...base, ...fuzzOnly].map(c => `gitlab/${c}`);
