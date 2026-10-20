@@ -1,0 +1,6 @@
+name = "Thief Simulator 1"
+display_name = "Thief Simulator"
+home = "https://discord.com/channels/731205301247803413/1044359732300886067"
+
+[versions]
+"0.1.0" = { url = "https://github.com/HashBrown2B/Archipelago-For-Thief-Simulator-1/releases/download/V1.0/ThiefSimulator1.apworld" }
